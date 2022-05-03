@@ -22,9 +22,7 @@
   <img align="center" alt="Edu-Sequelize" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original-wordmark.svg" />
   <img align="center" alt="Edu-SocketIO" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original-wordmark.svg" />
   <img align="center" alt="Edu-Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-  <!--<img align="right" alt="Edu-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
-</div>-->
-  <img align="right" src="https://firebasestorage.googleapis.com/v0/b/site-63571.appspot.com/o/yagi-toshinori.gif?alt=media&token=72c70500-8681-4d17-a3df-6f2768a00c40" alt="yagi-toshinori" height="150" />
+  <img align="right" alt="Edu-pic" src="https://firebasestorage.googleapis.com/v0/b/site-63571.appspot.com/o/yagi-toshinori.gif?alt=media&token=72c70500-8681-4d17-a3df-6f2768a00c40" alt="yagi-toshinori" height="150" />
   
 ##
   
@@ -33,4 +31,4 @@
   <a href="https://portfolio-eduardomarcelino.herokuapp.com/meus-projetos"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
   <a href="https://stackoverflow.com/users/19027225/eduardo-marcelino"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
 
-  <!--![Snake animation](https://github.com/EduardoMarcelinoEng/EduardoMarcelinoEng/blob/output/github-contribution-grid-snake.svg)-->
+  ![Snake animation](https://github.com/EduardoMarcelinoEng/EduardoMarcelinoEng/blob/output/github-contribution-grid-snake.svg)
