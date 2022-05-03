@@ -3,7 +3,6 @@
 - 🔭 Hoje trabalho com desenvolvimento web (full stack)
 - 🌱 Estudando WordPress
 - 📫 Contate-me no e-mail: eduardo.marcelino.eng@gmail.com
-- 😄 Pronomes: ele/dele
 - 🎮 Curto ler livros e assistir séries e filmes no tempo livre
 
 <div align="center">
