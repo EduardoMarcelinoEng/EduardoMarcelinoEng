@@ -31,4 +31,4 @@
   <a href="https://portfolio-eduardomarcelino.herokuapp.com/meus-projetos"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
   <a href="https://stackoverflow.com/users/19027225/eduardo-marcelino"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
 
-  ![Snake animation](https://github.com/EduardoMarcelinoEng/EduardoMarcelinoEng/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/EduardoMarcelinoEng/EduardoMarcelinoEng/blob/output/github-contribution-grid-snake.svg)
