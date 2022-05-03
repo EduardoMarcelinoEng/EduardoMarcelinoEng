@@ -9,9 +9,6 @@ jobs:
   build:
     name: Jobs to update datas
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-      packages: write
     steps:
       # Snake Animation
       - uses: Platane/snk@master
@@ -26,4 +23,3 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  
