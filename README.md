@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://portfolio-eduardomarcelino.herokuapp.com/meus-projetos">
-  <img width="43%" src="https://github-readme-stats.vercel.app/api?username=eduardomarcelino&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width="43%" src="https://github-readme-stats.vercel.app/api?username=EduardoMarcelinoEng&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoMarcelinoEng&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
