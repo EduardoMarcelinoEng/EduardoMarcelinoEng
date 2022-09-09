@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Eduardo Marcelino 👋
 
 - 🔭 Hoje trabalho com desenvolvimento web (full stack)
-- 🌱 Estudando WordPress
+- 🌱 Estudando Nginx e servidores de e-mail
 - 📫 Contate-me no e-mail: eduardo.marcelino.eng@gmail.com
 - 🎮 Curto ler livros e assistir séries e filmes no tempo livre
 
